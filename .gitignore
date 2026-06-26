@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Angular
+node_modules/
+.angular/
+dist/
+coverage/
+
+# .NET
+bin/
+obj/
+
+# VS / VS Code
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# User-specific
+*.user
+*.suo
+
+# JetBrains
+.idea/
+
+# Package locks (optional)
+package-lock.json
+
+# Angular cache
+.cache/
+
+# Build outputs
+out/
+publish/
+
+# Kubernetes / Docker temp
+*.pid
+*.tmp
